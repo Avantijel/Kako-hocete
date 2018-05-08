@@ -78,7 +78,7 @@ width:10;
 
 .slika2{
     display: inline;
-    margin-left: 590px;
+    margin-left: 20%;
     margin-right: auto;
    }
    .slika3{
@@ -148,4 +148,8 @@ width:10;
     font-size: 20px;
     color: greenyellow;
     font-family: fantasy;
+}
+
+.figure1 {
+    display: inline;
 }
