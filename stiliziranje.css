@@ -1,4 +1,151 @@
-html{
-    background-color: azure
 
-};
+html{
+    background-color: darkslategray;
+}
+
+h1 {
+    font-size:200px;
+    color: rgb(126, 37, 37);
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+
+h2 {
+    font-size:70px;
+    color: rgb(37, 126, 44);
+    font-family: Comic Sans MS;
+    text-align: center;
+
+}
+.Storyline{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+    width:70%;
+}
+.StroyP1{
+    font-size:30px;
+    color: deepskyblue;
+    text-align: center;
+}
+
+h3 {
+    font-size:50px;
+    color: rgb(113, 71, 190);
+    font-family: Comic Sans MS;
+    text-align: 10px;
+}
+
+h4{
+    font-size:50px;
+    color:blanchedalmond;
+    font-family: Comic Sans MS;
+    text-align: 10px;
+}
+
+h5{
+    font-size:40px;
+    color: gold;
+    font-family: Comic Sans MS;
+    text-align: 10px;
+}
+
+.Naslov{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px;
+    width:70%;
+}
+.ep1, .ep2 {
+float: right;
+margin-right: 30%;
+width:10;
+
+}
+.epizoda1, .epizoda2{
+    color: deepskyblue;
+    font-size:30px;
+    margin-left: 100px;   
+}
+
+.slika1{
+    display: inline;
+    margin-left: 30px;
+    margin-right: auto;
+   }
+
+.slika2{
+    display: inline;
+    margin-left: 590px;
+    margin-right: auto;
+   }
+   .slika3{
+    display: inline;
+    margin-left: 510px;
+    margin-right: auto;
+   }
+
+   .slika4{
+    display: inline;
+    margin-left: 320px;
+    margin-right: auto;
+    
+   }
+
+   .slika5{
+    display: inline;
+    margin-left: 620px;
+    margin-right: auto;
+    
+   }
+
+   .edi1{
+    font-size:20px;
+    color:  rgb(185, 27, 27);
+       display: inline;
+       margin-left: 00px;
+    margin-right: auto;
+    
+   }
+   .edi2{
+    font-size:20px;
+    color:  rgb(185, 27, 27);
+    display: inline;
+    margin-left:550px;
+ margin-right: auto;
+}
+.edi3{
+    font-size:20px;
+    color: rgb(185, 27, 27);
+    display: inline;
+    margin-left:1550px;
+ margin-right: auto;
+}
+
+.edi4{
+    font-size:20px;
+    color: rgb(185, 27, 27);
+    display: inline;
+    margin-left:300px;
+ margin-right: auto;
+}
+.edi5{
+    font-size:20px;
+    color: rgb(185, 27, 27);
+    display: inline;
+    margin-left:650px;
+ margin-right: auto;
+}
+
+.finish{
+    font-size: 22px;
+    color: coral;
+}
+
+.copyr{
+    font-size: 20px;
+    color: greenyellow;
+    font-family: fantasy;
+}
