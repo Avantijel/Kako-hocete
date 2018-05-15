@@ -1,0 +1,25 @@
+
+
+html {
+    background-color: rgba(36, 9, 66, 0.788);
+}
+
+h2 {
+    font-size:70px;
+    color: rgb(37, 126, 44);
+    font-family: Comic Sans MS;
+    text-align: center;
+
+}
+
+.ep1, .ep2 {
+    float: right;
+    margin-right: 30%;
+    width:10;
+    
+    }
+    .epizoda1, .epizoda2{
+        color: deepskyblue;
+        font-size:30px;
+        margin-left: 100px;   
+    }
